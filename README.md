@@ -11,4 +11,5 @@
 
 - [Micronaut HTTP Client documentation](https://docs.micronaut.io/latest/guide/index.html#httpClient)
 
-
+## Question link
+- [Christmas Light Kata](https://kata-log.rocks/christmas-lights-kata)

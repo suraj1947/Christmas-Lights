@@ -3,7 +3,7 @@ package com.christmas;
 
 public class Lights {
 
-  private int[][] lightGrid = new int[1000][1000];
+  private final int[][] lightGrid = new int[1000][1000];
 
   public boolean isLightOn(int x, int y) {
     return this.lightGrid[x][y] >= 1;
